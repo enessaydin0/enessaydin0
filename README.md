@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Building modern and scalable web applications.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="200">
 </p>
 
 ---
@@ -30,8 +30,8 @@ I am a Full-Stack Developer specializing in creating efficient and scalable soft
 ### 📊 GitHub Stats
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eness&show_icons=true&locale=en&theme=dark&hide_border=true" alt="eness' GitHub Stats" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eness&layout=compact&locale=en&theme=dark&hide_border=true" alt="eness' Top Languages" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=enessaydin0&show_icons=true&locale=en&theme=dark&hide_border=true" alt="eness' GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enessaydin0&layout=compact&locale=en&theme=dark&hide_border=true" alt="eness' Top Languages" />
 </p>
 
 ---
