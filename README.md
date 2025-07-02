@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Building modern and scalable web applications.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="300">
 </p>
 
 ---
