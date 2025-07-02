@@ -21,7 +21,7 @@ I am a Full-Stack Developer specializing in creating efficient and scalable soft
 
 <p align="center">
 <a href="https://www.linkedin.com/in/enes-aydın-252846260/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-aydın-252846260" height="30" width="40" /></a>
-<a href="https://x.com/enesssaydin0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="enesssaydin0" height="30" width="40" /></a>
+<a href="https://x.com/enesssaydin0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enesssaydin0" height="30" width="40" /></a>
 </p>
 ---
 
