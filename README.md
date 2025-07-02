@@ -39,10 +39,7 @@ I am a Full-Stack Developer specializing in creating efficient and scalable soft
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enessaydin0&show_icons=true&locale=en&theme=dark&hide_border=true" alt="eness - GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enessaydin0&layout=compact&locale=en&theme=dark&hide_border=true" alt="eness - Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enessaydin0&theme=onedark&margin-w=15&margin-h=15" />
-</p>
-
 
