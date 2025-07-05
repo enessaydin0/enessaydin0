@@ -11,9 +11,9 @@
 
 I am a Full-Stack Developer specializing in creating efficient and scalable software solutions. With a strong foundation in both front-end and back-end technologies, I am dedicated to delivering high-quality products. I am currently seeking new opportunities to contribute to challenging projects.
 
-- 🚀 I'm currently building an **e-commerce platform**.
+- 🚀 I'm currently building an **Dynamic Websites**.
 - 🌱 I'm learning and specializing in **Next.js, AWS, and TypeScript**.
-- 📫 You can reach me at **r.enesaydinnn@gmail.com**.
+- 📫 You can reach me at **enesaydinnn@gmail.com**.
 
 ---
 
